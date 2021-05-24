@@ -1,6 +1,9 @@
 """decorator function not working in the target of thread, will get back to main
 pure wait function will benefit from multithreading
 working fuction will not
+
+#GIL
+is a lock for thread prevent from ture multi tasking
 """
 
 
